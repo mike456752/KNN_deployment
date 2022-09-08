@@ -6,6 +6,8 @@ Batch code:LISUM12
 
 Find the simple code from github
 
+create a app.py
+
 Create a htlm file
  
 build a knn model/ make it a pikle file
